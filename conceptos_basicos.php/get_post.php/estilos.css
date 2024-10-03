@@ -1,0 +1,10 @@
+*{
+    background-color: rgb(230, 189, 240);
+    font-size: 1.1em;
+    
+}
+input{
+    background-color: white;
+    color: black;
+    border-radius: 2cap;
+}
